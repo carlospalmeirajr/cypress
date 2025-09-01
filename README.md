@@ -1,6 +1,6 @@
 # Cypress Cucumber Web API Automation
 
-Este projeto foi desenvolvido utilizando os Frameworks Cypress e Cucumber para criar testes automatizados de aplicações web e API, seguindo a abordagem BDD (Behavior-Driven Development).
+Este projeto foi desenvolvido utilizando os Frameworks Cypress e Cucumber para criar testes automatizados de aplicações WEB e API, seguindo a abordagem BDD (Behavior-Driven Development).
 
 ## Tecnologias Utilizadas
 - **Cypress**: Framework para automação de testes de aplicações WEB e API.
