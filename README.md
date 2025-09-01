@@ -4,11 +4,11 @@ Este projeto foi desenvolvido utilizando os Frameworks Cypress e Cucumber para c
 
 ## Tecnologias Utilizadas
 - **Cypress**: Framework para automação de testes de aplicações WEB e API.
-- **Cucumber**: Ferramenta para testes BDD, utilizando a linguagem Gherkin.
+- **Cucumber**: Framework para testes BDD, utilizando a linguagem Gherkin.
 - **JavaScript**: Linguagem usada.
 
 ## Pré-requisitos
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no seu ambiente:
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas e configuradas no seu computador:
 - **Node.js** (v18 ou superior)
 - **npm** (v9 ou superior)
 - Um editor de texto, como **Visual Studio Code**
@@ -24,7 +24,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
    cd cypress
    ```
 
-3. **Navegue até o diretório do projeto:**
+3. **Execute o comando para instalar as dependencias do projeto:**
    ```bash  
    npm install
    ```
