@@ -51,7 +51,6 @@ Os arquivos .feature (cenários em Gherkin) estão localizados na pasta:
 ## Estrutura do Projeto
 A estrutura do projeto segue uma organização lógica para facilitar a navegação e o desenvolvimento:
 ```bash  
-   cypress-cucumber-web-api-JS/
 ├── cypress/
 │   ├── e2e/                       # Pasta principal para os testes
 │   │   ├── features/              # Cenários BDD em Gherkin
