@@ -11,7 +11,7 @@ Este projeto foi desenvolvido utilizando os Frameworks Cypress e Cucumber para c
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas e configuradas no seu computador:
 - **Node.js** (v18 ou superior)
 - **npm** (v9 ou superior)
-- Um editor de texto, como **Visual Studio Code**
+- Um editor de texto, como **Visual Studio Code** por exemplo
 
 ## Configuração do Ambiente
 1. **Clone este repositório:**
